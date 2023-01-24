@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244997872500",
+    "project_id": "apros-2310a",
+    "storage_bucket": "apros-2310a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244997872500:android:3832ff9f1491b3c5c92a21",
+        "android_client_info": {
+          "package_name": "com.sushanth1611.apros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244997872500-em3f0djqnq5kpcudjrur0ntieptho56e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sushanth1611.apros",
+            "certificate_hash": "e88ecaace4af7d537fd165c3a37f62d6fc9ee3d4"
+          }
+        },
+        {
+          "client_id": "244997872500-81udpf58oh99icv1rmmnhil4o67p6b3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlz0Zku4Dxz3DGfFQYtxKsXwllkwMNZZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244997872500-81udpf58oh99icv1rmmnhil4o67p6b3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
